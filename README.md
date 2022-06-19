@@ -5,8 +5,15 @@
 
 Here are some ideas to get you started:
 -->
+
+![](https://hit.yhype.me/github/profile?user_id=100342753)
+
 - 🔭 I’m currently working on Full Stack Development Projects.
 - 🌱 I’m currently learning JAVA
+
+
+
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
