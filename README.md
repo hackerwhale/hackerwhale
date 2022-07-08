@@ -10,6 +10,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Full Stack Development Projects.
 - 🌱 I’m currently learning JAVA
 
+Technologies: 
+Front-End : HTML5, CSS3, ES6-JS, 
+Front-End-Framework : Bootstrap5
+Back-End :  MySQL, PHP
+
 
 
 
