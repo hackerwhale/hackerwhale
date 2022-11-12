@@ -8,8 +8,9 @@ Here are some ideas to get you started:
 
 
 - 🔭 I’m currently working on Full Stack Development Projects.
-- 🌱 I’m currently learning JAVA
-
+<!---
+- 🌱 I’m currently learning
+--->
 
 Technologies I Use 👨‍💻: 
 * Front-End : HTML5, CSS3, ES6-JS, 
