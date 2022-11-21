@@ -32,7 +32,7 @@ Technologies I Use 👨‍💻:
 -->
 
 
-------------------------------------------------------------  <Strong>Badge Board 🔘 From Holopin</Strong>  --------------------------------------------------------
+---------------------------------------------------------  <Strong>Badge Board 🔘 From Holopin</Strong>  --------------------------------------------------------
 
 
 [![@hackerwhale's Holopin board](https://holopin.me/hackerwhale)](https://holopin.io/@hackerwhale)
