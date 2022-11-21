@@ -31,4 +31,8 @@ Technologies I Use 👨‍💻:
 - ⚡ Fun fact: ...
 -->
 
+
+------------------------------------------------------------  <Strong>Badge Board 🔘 From Holopin</Strong>  --------------------------------------------------------
+
+
 [![@hackerwhale's Holopin board](https://holopin.me/hackerwhale)](https://holopin.io/@hackerwhale)
