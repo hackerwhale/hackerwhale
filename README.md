@@ -49,7 +49,7 @@ Technologies I Use 👨‍💻:
 
 ###
 <a href="#">
-<img max-width="450px" src="https://github-readme-stats.vercel.app/api?username=hackerwhale&show_icons=true&theme=radical&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=hackerwhale&show_icons=true&theme=radical&count_private=true" width="410px" height="210">
 
-<img  max-width="450px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerwhale&theme=algolia&hide_border=true">
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerwhale&theme=algolia&hide_border=true" width="410px" height="210">
 </a>
