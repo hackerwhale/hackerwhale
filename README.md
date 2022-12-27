@@ -40,7 +40,7 @@ Technologies I Use 👨‍💻:
 [![@hackerwhale's Holopin board](https://holopin.me/hackerwhale)](https://holopin.io/@hackerwhale)
 
 <hr>
-<h2 align="center">Support <br> <br>
+<h2 align="center"> To Support Me 😉<br> <br>
 <a  href="https://www.buymeacoffee.com/hackerwhale"><img  src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hackerwhale&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a></h2>
 </a>
 
