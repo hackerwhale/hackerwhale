@@ -21,6 +21,8 @@ Technologies I Use 👨‍💻:
 
 * Back-End :  MySQL, PHP
 
+* Other Tech Stack: Java, Python, C.
+
 
 
 
